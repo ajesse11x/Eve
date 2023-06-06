@@ -38,7 +38,7 @@
     "@types/uuid": "^2.0.29",
     "chevrotain": "0.28.2",
     "commonmark": "^0.27.0",
-    "dateformat": "^2.0.0",
+    "dateformat": "^5.0.3",
     "express": "^4.14.0",
     "falafel": "^2.0.0",
     "javascript-natural-sort": "^0.7.1",
